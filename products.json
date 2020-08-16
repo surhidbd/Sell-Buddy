@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Ibanez guitar",
+        "price": 10.99,
+        "image": { "fields": { "file": { "url": "./images/img1.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Iphone 7",
+        "price": 12.99,
+        "image": { "fields": { "file": { "url": "./images/img2.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Guitar amp",
+        "price": 12.99,
+        "image": { "fields": { "file": { "url": "./images/img3.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Iphone 10",
+        "price": 22.99,
+        "image": { "fields": { "file": { "url": "./images/img4.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Iphone 8",
+        "price": 88.99,
+        "image": { "fields": { "file": { "url": "./images/img8.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Iphone 11",
+        "price": 32.99,
+        "image": { "fields": { "file": { "url": "./images/img6.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Iphone 10",
+        "price": 45.99,
+        "image": { "fields": { "file": { "url": "./images/img7.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Iphone 9",
+        "price": 33.99,
+        "image": { "fields": { "file": { "url": "./images/img8.jpg" } } }
+      }
+    }
+  ]
+}
